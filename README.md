@@ -3,7 +3,7 @@
 **Activate Vertualenv :**
 
 ```
-./myenv/bin/activate
+source myenv/bin/activate
 ```
 
 **De-activate Vertualenv :**
